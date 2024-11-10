@@ -1,4 +1,4 @@
-<h1>CLI - Dictionary (Discouninued)</h1>
+<h1>CLI - Dictionary (Discontinued)</h1>
 
 This is a command line interface (CLI) program for searching the definition, example sentence and translation of an English word using the free dictionaryapi.dev API and the googletrans Python package.
 <h3>Requirements</h3>
